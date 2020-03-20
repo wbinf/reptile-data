@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: us.codecraft.webmagic.example.GithubRepoPageProcessorTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.097 sec - in us.codecraft.webmagic.example.GithubRepoPageProcessorTest
